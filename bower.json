@@ -1,0 +1,17 @@
+{
+    "name": "combo-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/combo-bower.git"
+    },
+    "description": "Combo font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
